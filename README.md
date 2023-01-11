@@ -2,7 +2,7 @@
 Implementation of Extended Kalman Filter for quadrotor state estimation by fusing IMU and Vicon data
 
 ## Setup
-Download the [dataset](https://drive.google.com/uc?export=download&id=1Lb3spfN2pWJxw6UBiNjGD65PiUzzj0yH).
+Download the [dataset](https://drive.google.com/uc?export=download&id=1Lb3spfN2pWJxw6UBiNjGD65PiUzzj0yH) and extract it inside the 'data' folder.
 ## Part 1
 Perfomed Extended Kalman Filter using measurement provided by VICON in the form of pose(position and orientation).
 
