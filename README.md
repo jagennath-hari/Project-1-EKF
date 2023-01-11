@@ -5,4 +5,4 @@ Implementation of Extended Kalman Filter for quadrotor state estimation by fusin
 Perfomed Extended Kalman Filter using measurement in the form of pose(position and orientation) from VICON.
 
 ### Results
-<p align = 'center'><img src ='assets/EKF1.jpg' width="600" height="600" ></p> 
+<p align = 'center'><img src ='assets/EKF1.jpg' width="800" height="600" ></p> 
