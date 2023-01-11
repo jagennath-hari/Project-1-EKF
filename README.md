@@ -12,3 +12,6 @@ Perfomed Extended Kalman Filter using measurement provided by VICON in the form 
 
 ### Results
 <p align = 'center'><img src ='assets/EKF2.jpg' width="1000" height="600" ></p> 
+
+## Report
+To read a detailed report click HERE.
