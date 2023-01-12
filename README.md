@@ -9,7 +9,7 @@ Perfomed Extended Kalman Filter using measurement provided by VICON in the form 
 ### Results
 <p align = 'center'><img src ='assets/EKF1.jpg' width="1000" height="600" ></p> 
 
-## Part 1
+## Part 2
 Perfomed Extended Kalman Filter using measurement provided by VICON in the form of twist(velocity).
 
 ### Results
