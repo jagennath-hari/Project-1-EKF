@@ -3,13 +3,13 @@ Implementation of Extended Kalman Filter for quadrotor state estimation by fusin
 
 ## Setup
 Download the [dataset](https://drive.google.com/uc?export=download&id=1Lb3spfN2pWJxw6UBiNjGD65PiUzzj0yH) and extract it inside the `data` folder.
-## Part 1(a)
+## Part 1
 Perfomed Extended Kalman Filter using measurement provided by VICON in the form of pose(position and orientation).
 
 ### Results
 <p align = 'center'><img src ='assets/EKF1.jpg' width="1000" height="600" ></p> 
 
-## Part 1(b)
+## Part 1
 Perfomed Extended Kalman Filter using measurement provided by VICON in the form of twist(velocity).
 
 ### Results
