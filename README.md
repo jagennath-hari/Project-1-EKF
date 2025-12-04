@@ -2,7 +2,7 @@
 Implementation of Extended Kalman Filter for quadrotor state estimation by fusing IMU and Vicon data
 
 ## Setup
-The dataset required for this project is stored in the `data/` directory and managed using **Git LFS**.
+The dataset required for this project is stored in the [data](data) directory and managed using **Git LFS**.
 
 Clone the repository with Git LFS enabled:
 
