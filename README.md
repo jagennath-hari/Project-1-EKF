@@ -2,7 +2,20 @@
 Implementation of Extended Kalman Filter for quadrotor state estimation by fusing IMU and Vicon data
 
 ## Setup
-Download the [dataset](https://drive.google.com/uc?export=download&id=1Lb3spfN2pWJxw6UBiNjGD65PiUzzj0yH) and extract it inside the `data` folder.
+The dataset required for this project is stored in the `data/` directory and managed using **Git LFS**.
+
+Clone the repository with Git LFS enabled:
+
+```bash
+git lfs install
+git clone https://github.com/jagennath-hari/Project-1-EKF.git
+```
+
+If you cloned the repo without LFS enabled, run:
+```bash
+git lfs pull
+```
+
 ## Part 1
 Perfomed Extended Kalman Filter using measurement provided by VICON in the form of pose(position and orientation).
 
